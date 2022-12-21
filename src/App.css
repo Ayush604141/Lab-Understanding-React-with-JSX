@@ -1,0 +1,7 @@
+/* add your styles here */
+.gridElement{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    width: 75%;
+    margin-left: 10%;
+}
